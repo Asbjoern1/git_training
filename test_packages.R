@@ -1,4 +1,4 @@
 library(DBI)
-library(tidyverse) #Hello World
+library(tidyverse) #Hello Land
 library(dplyr)
 #så skriver vi lige lidt mere her idk
