@@ -1,4 +1,3 @@
 library(DBI)
-library(tidyverse) #Hello Land
+library(tidyverse) #Very tidy thing
 library(dplyr)
-library(tidyverse) #tidy thangs
